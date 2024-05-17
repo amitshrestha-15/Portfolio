@@ -16,6 +16,7 @@ export const skillsData = [
   'Go',
   'Figma',
   'Firebase',
+  'Microsoft Office',
   'MaterialUI',
   'Nginx',
   'Strapi'
